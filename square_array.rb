@@ -6,4 +6,5 @@ def square_array(array)
     index += 1
   end
   new_numbers
+  binding.pry
 end
