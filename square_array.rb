@@ -8,3 +8,6 @@ def square_array(array)
   new_numbers
   binding.pry
 end
+
+array = [0, 1, 2, 3, 5, 10, 10, 11]
+square_array(array)
