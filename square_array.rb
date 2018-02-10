@@ -1,3 +1,5 @@
+require 'pry'
+
 def square_array(array)
   index = 0
   new_numbers = Array.new
